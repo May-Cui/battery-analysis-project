@@ -90,3 +90,15 @@ Date: 14 July – 20 July 2025
   - `progress-log.md` (this file)
 
 ---
+# Week 4
+Date: 21 July – 27 July 2025  
+
+---
+
+## Summary of Work Completed
+- Completed full implementation of `dV/dQ` and `dQ/dV`, including batch data preprocessing, gradient calculation, and plotting.  
+- Created a new notebook for exploring multicycle plotting (`explore_multicycle_plot.ipynb`); finalised with consistent legends and formatting for poster usage.  
+- Refactored code into modular functions with more flexible parameters for easier reuse across methods; all code now integrated into a new notebook (`utils_dev_testing.ipynb`), to be transferred to `.py` once fully tested, if needed.  
+- Cleaned and renamed functions and files for clarity and consistency.  
+- Continued reading papers to prepare for the upcoming method comparison work.
+---
