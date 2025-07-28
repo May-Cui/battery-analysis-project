@@ -96,6 +96,7 @@ Date: 21 July – 27 July 2025
 ---
 
 ## Summary of Work Completed
+- Finalised ```differential_analyse_Borealis.ipynb```: added optional saving of plots, standardised discharge curve direction (ensuring visually decreasing voltage and negative derivatives), and investigated how parameter choices affect outputs.
 - Completed full implementation of `dV/dQ` and `dQ/dV`, including batch data preprocessing, gradient calculation, and plotting.  
 - Created a new notebook for exploring multicycle plotting (`explore_multicycle_plot.ipynb`); finalised with consistent legends and formatting for poster usage.  
 - Refactored code into modular functions with more flexible parameters for easier reuse across methods; all code now integrated into a new notebook (`utils_dev_testing.ipynb`), to be transferred to `.py` once fully tested, if needed.  
