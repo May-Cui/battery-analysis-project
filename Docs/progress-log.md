@@ -103,3 +103,19 @@ Date: 21 July – 27 July 2025
 - Cleaned and renamed functions and files for clarity and consistency.  
 - Continued reading papers to prepare for the upcoming method comparison work.
 ---
+# Week 5  
+Date: 28 July – 3 August 2025  
+
+---
+
+## Summary of Work Completed  
+- Met with supervisor to review analysis methods; clarified column provenance in Borealis dataset and confirmed that given `P`, `E`, `Q` values are reliable (from a published paper), so they can be directly used for analysis.  
+- Worked extensively on `utils_dev_testing.ipynb` to develop a unified analysis pipeline across all diagnostic methods (`dV/dQ`, `dQ/dV`, `dP/dE`, `DCS`):  
+  - Used dataset-provided variables (`P`, `E`, `Q`) as inputs.  
+  - Applied method-specific interpolation (`V(Q)`, `Q(V)`, `P(E)`), followed by Savitzky–Golay smoothing and numerical differentiation.  
+  - Planned final interpolation of all differential results with respect to voltage for aligned comparison.  
+- Standardised and re-implemented `dV/dQ` and `dQ/dV` in `utils_dev_testing.ipynb` with consistent preprocessing and smoothing logic.  
+- Started integrating `dP/dE` and `DCS` using the same modular structure.  
+- Began preparing for future multicycle comparisons by reviewing peak alignment logic and testing updated plotting functions.
+
+---
