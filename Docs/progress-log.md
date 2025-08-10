@@ -119,3 +119,18 @@ Date: 28 July – 3 August 2025
 - Began preparing for future multicycle comparisons by reviewing peak alignment logic and testing updated plotting functions.
 
 ---
+# Week 6  
+Date: 4 August – 10 August 2025  
+
+---
+
+## Summary of Work Completed  
+- Completed full implementation of all four diagnostic methods (`dV/dQ`, `dQ/dV`, `dP/dE`, `DCS`) within the unified pipeline.  
+- Adapted the Faraday FUSE poster template into sections tailored to the project’s structure and goals.  
+- Created a detailed plan of required plots for the poster based on the first draft of the introduction section.  
+- Implemented the planned plots in `utils_dev_testing.ipynb` using Python.  
+- Discussed with supervisor regarding section structure, plot styles, and overall poster design approach.  
+- Began targeted literature review to support method comparison and provide references for poster content, building on initial reading from earlier weeks.  
+- Continued drafting sections on project motivation, comparative insights, and key findings for the poster.  
+
+---
