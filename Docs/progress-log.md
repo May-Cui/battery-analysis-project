@@ -134,3 +134,17 @@ Date: 4 August – 10 August 2025
 - Continued drafting sections on project motivation, comparative insights, and key findings for the poster.  
 
 ---
+# Week 7  
+Date: 11 August – 17 August 2025  
+
+---
+
+## Summary of Work Completed  
+
+- Revisited earlier pipeline design: previously relied on **interpolation + smoothing** before differentiation; after reviewing more papers, began transitioning towards **downsampling** as a preprocessing strategy to avoid artificially created peaks.  
+- Implemented **first version of downsampling code**, tested on selected cycles to evaluate impact on peak position, height, and noise sensitivity.  
+- Refined **Differential Coulometry Spectroscopy (DCS)** implementation based on insights from recent literature.  
+- Drafted a **summary of findings** from all implemented methods (`dV/dQ`, `dQ/dV`, `dP/dE`, `DCS`) to highlight comparative strengths and limitations.  
+- Read additional literature on identifying **degradation modes** (e.g., lithium plating, active material loss, impedance growth) from diagnostic signatures to support poster interpretation.  
+
+---
