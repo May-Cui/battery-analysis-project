@@ -148,3 +148,35 @@ Date: 11 August – 17 August 2025
 - Read additional literature on identifying **degradation modes** (e.g., lithium plating, active material loss, impedance growth) from diagnostic signatures to support poster interpretation.  
 
 ---
+# Week 8  
+Date: 18 August – 24 August 2025  
+
+---
+
+## Summary of Work Completed  
+
+- Completed final **poster preparation** for the FUSE 2025 programme.  
+- Organised and cleaned the GitHub repository: renamed notebooks, archived exploratory files, and added documentation.  
+- Uploaded poster files and figures, ensuring results and outputs are clearly accessible.  
+- Carried out final wrap-up tasks to close the project.  
+
+---
+
+# Overall Reflection  
+
+## 🔧 Technical Skills  
+- Built and validated pipelines for four diagnostic methods (dQ/dV, dV/dQ, dP/dE, LEAN).  
+- Applied methods to multiple published datasets and compared their strengths and limitations.  
+- Improved **data analysis and coding skills**, especially in reproducible workflows, smoothing/resampling techniques, and diagnostic plot interpretation.  
+- Learned how to **organise and manage a research project** on GitHub, including structuring notebooks, documentation, and outputs.  
+
+## 📚 Research Skills  
+- Gained a **realistic sense of doing research**, dealing with questions not directly answered in the literature or online, and learning to resolve them independently.  
+- Developed skills in **reading and synthesising academic papers**, connecting methods and findings from literature with practical implementation.  
+- Strengthened ability to work independently while incorporating supervisor feedback.  
+
+## 💬 Communication & Networking  
+- Practised **scientific communication with supervisors**, preparing weekly updates, structuring questions, and presenting results efficiently.  
+- Gained experience in **documentation and dissemination**, producing a glossary, weekly logs, and a scientific poster.  
+- Developed confidence in presenting technical outcomes in a concise and visual way.  
+- Benefited from **networking opportunities** provided by the Faraday Institution, including encouragement to use LinkedIn more actively to share outcomes and connect with the research community.  
