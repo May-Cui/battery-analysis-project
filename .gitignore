@@ -1,2 +1,2 @@
 Data/processed_cache/
-*.pkl
+*.pkl!*/.gitkeep
